@@ -1,0 +1,255 @@
+{
+  "question1": {
+    "a": {"Logical Thinking": 3, "Analytical Abilities": 3, "Interest in Specific Subjects": 2},
+    "b": {"Logical Thinking": 2, "Analytical Abilities": 3, "Interest in Specific Subjects": 2},
+    "c": {"Verbal Skills": 3, "Interest in Specific Subjects": 2, "Creative Thinking": 1},
+    "d": {"Verbal Skills": 2, "Interest in Specific Subjects": 2},
+    "e": {"Creative Thinking": 3, "Interest in Specific Subjects": 2, "Spatial Reasoning": 2},
+    "f": {"Interest in Specific Subjects": 0}
+  },
+  "question2": {
+    "a": {"Learning Speed": 3, "Analytical Abilities": 2},
+    "b": {"Learning Speed": 2, "Analytical Abilities": 1},
+    "c": {"Learning Speed": 1},
+    "d": {"Learning Speed": 0}
+  },
+  "question3": {
+    "a": {"Problem-solving Abilities": 3, "Logical Thinking": 3, "Critical Thinking": 2},
+    "b": {"Problem-solving Abilities": 2, "Logical Thinking": 1, "Critical Thinking": 3},
+    "c": {"Problem-solving Abilities": 1, "People Skills": 1},
+    "d": {"Problem-solving Abilities": 0, "Critical Thinking": 1}
+  },
+  "question4": {
+    "a": {"Learning Speed": 1, "Verbal Skills": 2, "Critical Thinking": 2},
+    "b": {"Learning Speed": 2, "Visual Skills": 2},
+    "c": {"Learning Speed": 2, "People Skills": 3},
+    "d": {"Learning Speed": 3, "Nature Smartness": 3},
+    "e": {"Learning Speed": 2, "Critical Thinking": 3, "Logical Thinking": 2},
+    "f": {"Learning Speed": 2, "Spatial Reasoning": 3}
+  },
+  "question5": {
+    "a": {"Grade Trends": 3, "Work Ethic": 3},
+    "b": {"Grade Trends": 2, "Work Ethic": 2},
+    "c": {"Grade Trends": 1, "Work Ethic": 1},
+    "d": {"Grade Trends": 0, "Work Ethic": 0}
+  },
+  "question7": {
+    "a": {"Work Ethic": 2, "Learning Speed": 1},
+    "b": {"People Skills": 2, "Critical Thinking": 2},
+    "c": {"Work Ethic": 3, "Critical Thinking": 3, "Problem Solving": 2},
+    "d": {"Work Ethic": 2, "Independence": 2}
+  },
+  "question8": {
+    "a": {"Learning Speed": 2, "People Skills": 2},
+    "b": {"Learning Speed": 2, "Independence": 2},
+    "c": {"Learning Speed": 1, "Spatial Reasoning": 1},
+    "d": {"Learning Speed": 3, "Risk Taking": 2}
+  },
+  "question9": {
+    "a": {"Sports Participation": 3, "People Skills": 2, "Teamwork": 3, "Physical Activity": 3},
+    "b": {"Sports Participation": 3, "People Skills": 2, "Teamwork": 3, "Physical Activity": 3},
+    "c": {"Sports Participation": 3, "Teamwork": 3, "Physical Activity": 3},
+    "d": {"Sports Participation": 3, "Physical Activity": 3},
+    "e": {"Sports Participation": 3, "Physical Activity": 3},
+    "f": {"Sports Participation": 2, "Physical Activity": 2},
+    "g": {"Sports Participation": 0}
+  },
+  "question11": {
+    "a": {"Clubs/Interest Groups": 3, "Technological Affinity": 3, "Logical Thinking": 2},
+    "b": {"Clubs/Interest Groups": 3, "Verbal Skills": 3, "Critical Thinking": 2, "People Skills": 2},
+    "c": {"Clubs/Interest Groups": 3, "Creative Thinking": 3, "People Skills": 2},
+    "d": {"Clubs/Interest Groups": 3, "Creative Thinking": 3, "Spatial Reasoning": 2},
+    "e": {"Clubs/Interest Groups": 3, "People Skills": 3, "Social Engagement": 3},
+    "f": {"Clubs/Interest Groups": 3, "Verbal Skills": 3, "Critical Thinking": 2},
+    "g": {"Clubs/Interest Groups": 2},
+    "h": {"Clubs/Interest Groups": 0}
+  },
+  "question14": {
+    "a": {"Creative Thinking": 3, "Spatial Reasoning": 3, "Picture Smartness": 3},
+    "b": {"Creative Thinking": 3, "Spatial Reasoning": 2, "Music Smartness": 3},
+    "c": {"Creative Thinking": 3, "Verbal Skills": 3},
+    "d": {"Creative Thinking": 3, "People Skills": 3},
+    "e": {"Creative Thinking": 3, "Technological Affinity": 2, "Spatial Reasoning": 2},
+    "f": {"Creative Thinking": 0}
+  },
+  "question15": {
+    "a": {"Leadership Roles": 2, "Work Ethic": 2},
+    "b": {"Leadership Roles": 1, "Work Ethic": 1},
+    "c": {"Leadership Roles": 0, "Work Ethic": 0}
+  },
+  "question16": {
+    "a": {"Physical Activity": 3},
+    "b": {"Passive Activity": 1},
+    "c": {"Technological Affinity": 2, "Picture Smartness": 2, "Nature Smartness": 0},
+    "d": {"Verbal Skills": 2, "Critical Thinking": 2},
+    "e": {"People Skills": 3},
+    "f": {"Passive Activity": 0}
+  },
+  "question17": {
+    "a": {"Independence": 3, "People Skills": 0, "Teamwork": 0},
+    "b": {"Independence": 2, "People Skills": 1, "Teamwork": 1},
+    "c": {"Independence": 2, "People Skills": 2, "Teamwork": 2},
+    "d": {"Independence": 1, "People Skills": 3, "Teamwork": 3},
+    "e": {"Independence": 0, "People Skills": 3, "Teamwork": 3}
+  },
+  "question18": {
+    "a": {"Risk-taking": 3},
+    "b": {"Risk-taking": 2},
+    "c": {"Risk-taking": 1},
+    "d": {"Risk-taking": 0}
+  },
+  "question19": {
+    "a": {"Communication Skills": 3, "Creative Thinking": 2},
+    "b": {"Independence": 3},
+    "c": {"People Skills": 3, "Communication Skills": 3},
+    "d": {"People Skills": 2, "Teamwork": 2, "Work Ethic": 2},
+    "e": {"Teamwork": 3, "Adaptability": 3}
+  },
+  "question20": {
+    "a": {"Work Ethic": 3, "Planning": 3, "Discipline": 3},
+    "b": {"Work Ethic": 2, "Planning": 2, "Discipline": 2},
+    "c": {"Work Ethic": 1, "Planning": 1, "Discipline": 1},
+    "d": {"Work Ethic": 0, "Planning": 0, "Discipline": 0}
+  },
+  "question21": {
+    "a": {"Risk Taking": 3, "Decisiveness": 3},
+    "b": {"Critical Thinking": 3, "Planning": 3, "Decisiveness": 2},
+    "c": {"People Skills": 3, "Decisiveness": 1},
+    "d": {"Decisiveness": 0}
+  },
+  "question22": {
+    "a": {"Work Ethic": 3, "Planning": 3, "Discipline": 3},
+    "b": {"Work Ethic": 2, "Planning": 2, "Discipline": 2},
+    "c": {"Work Ethic": 1, "Planning": 1, "Discipline": 1},
+    "d": {"Work Ethic": 0, "Planning": 0, "Discipline": 0}
+  },
+  "question23": {
+    "a": {"Adaptability": 3, "Resilience": 3},
+    "b": {"Adaptability": 2, "Resilience": 2},
+    "c": {"People Skills": 3, "Adaptability": 1, "Resilience": 1},
+    "d": {"Adaptability": 0, "Resilience": 0}
+  },
+  "question24": {
+    "a": {"People Skills": 3, "Empathy": 3},
+    "b": {"People Skills": 2, "Empathy": 2},
+    "c": {"People Skills": 0, "Empathy": 0}
+  },
+  "question25": {
+    "a": {"Resilience": 3, "Learning Speed": 3},
+    "b": {"Resilience": 1},
+    "c": {"People Skills": 2},
+    "d": {"Resilience": 0}
+  },
+  "question26": {
+    "a": {"Career Interest Surveys": 3, "People Skills": 3, "Logic": 2},
+    "b": {"Career Interest Surveys": 3, "Logical Thinking": 3, "Nature Smartness": 2},
+    "c": {"Career Interest Surveys": 3, "Technological Affinity": 3, "Logical Thinking": 3},
+    "d": {"Career Interest Surveys": 3, "Logical Thinking": 3, "People Skills": 2},
+    "e": {"Career Interest Surveys": 3, "Creative Thinking": 3, "Spatial Reasoning": 3},
+    "f": {"Career Interest Surveys": 3, "Verbal Skills": 3, "Logical Thinking": 2, "People Skills": 2},
+    "g": {"Career Interest Surveys": 3, "Verbal Skills": 3, "People Skills": 3},
+    "h": {"Career Interest Surveys": 3, "Logical Thinking": 3, "Nature Smartness": 3},
+    "i": {"Career Interest Surveys": 0}
+  },
+  "question28": {
+    "a": {"Comfort with Technology": 3, "Technological Affinity": 3},
+    "b": {"Comfort with Technology": 2, "Technological Affinity": 2},
+    "c": {"Comfort with Technology": 1, "Technological Affinity": 1},
+    "d": {"Comfort with Technology": 0, "Technological Affinity": 0}
+  },
+  "question29": {
+    "a": {"Technological Affinity": 3, "Logical Thinking": 3},
+    "b": {"Technological Affinity": 3, "Creative Thinking": 2},
+    "c": {"Technological Affinity": 3, "Creative Thinking": 3, "Spatial Reasoning": 3},
+    "d": {"Technological Affinity": 3, "Logical Thinking": 3, "Analytical Abilities": 3},
+    "e": {"Technological Affinity": 3, "Spatial Reasoning": 2, "Creative Thinking": 3},
+    "f": {"Technological Affinity": 3, "Logical Thinking": 3, "Spatial Reasoning": 3},
+    "g": {"Technological Affinity": 2, "Logical Thinking": 2},
+    "h": {"Technological Affinity": 3, "Logical Thinking": 3},
+    "i": {"Technological Affinity": 0}
+  },
+  "question31": {
+    "a": {"Learning Speed": 3, "Technological Affinity": 3},
+    "b": {"Learning Speed": 2, "Technological Affinity": 2},
+    "c": {"Learning Speed": 1, "Technological Affinity": 1},
+    "d": {"Learning Speed": 0, "Technological Affinity": 0}
+  },
+  "question33": {
+    "a": {"Logical Thinking": 3, "Problem-solving Abilities": 3},
+    "b": {"Logical Thinking": 2, "Problem-solving Abilities": 2},
+    "c": {"Logical Thinking": 1, "Problem-solving Abilities": 1},
+    "d": {"Logical Thinking": 0, "Problem-solving Abilities": 0}
+  },
+  "question34": {
+    "a": {"Analytical Abilities": 3, "Logical Thinking": 3},
+    "b": {"Analytical Abilities": 2, "Logical Thinking": 2},
+    "c": {"Analytical Abilities": 1, "Logical Thinking": 1},
+    "d": {"Analytical Abilities": 0, "Logical Thinking": 0}
+  },
+  "question35": {
+    "a": {"Memory Smartness": 3},
+    "b": {"Memory Smartness": 2},
+    "c": {"Memory Smartness": 1},
+    "d": {"Memory Smartness": 0}
+  },
+  "question36": {
+    "a": {"Critical Thinking": 0},
+    "b": {"Critical Thinking": 3, "Risk Taking": 2},
+    "c": {"Critical Thinking": 0},
+    "d": {"People Skills": 1}
+  },
+  "question37": {
+    "a": {"People Skills": 3},
+    "b": {"People Skills": 2},
+    "c": {"People Skills": 1},
+    "d": {"People Skills": 0}
+  },
+  "question38": {
+    "a": {"Teamwork": 3, "People Skills": 3},
+    "b": {"Teamwork": 2, "People Skills": 2},
+    "c": {"Teamwork": 1, "People Skills": 1},
+    "d": {"Teamwork": 0, "People Skills": 0}
+  },
+    "question39": {
+      "a": {"People Skills": 3, "Empathy": 2},
+      "b": {"People Skills": 2, "Empathy": 2},
+      "c": {"People Skills": 1, "Empathy": 1}, 
+      "d": {"People Skills": 0, "Empathy": 0}
+    },
+    "question40": {
+      "a": {"Communication Skills": 3, "People Skills": 3},
+      "b": {"Communication Skills": 2, "People Skills": 2},
+      "c": {"Communication Skills": 1, "People Skills": 1},
+      "d": {"Communication Skills": 0, "People Skills": 0}
+    },
+    "question41": {
+      "a": {"Independence": 3, "People Skills": 0, "Teamwork": 0},
+      "b": {"Independence": 2, "People Skills": 1, "Teamwork": 1},
+      "c": {"Independence": 2, "People Skills": 2, "Teamwork": 2}, 
+      "d": {"Independence": 1, "People Skills": 3, "Teamwork": 3},
+      "e": {"Independence": 0, "People Skills": 3, "Teamwork": 3}
+    },
+    "question42": {
+      "a": {"Work Ethic": 3},
+      "b": {"Work Ethic": 2, "Critical Thinking": 2},
+      "c": {"Work Ethic": 1, "Critical Thinking": 3}
+    },
+    "question43": {
+      "a": {"Planning": 3, "Work Ethic": 3},
+      "b": {"Planning": 2, "Work Ethic": 2},
+      "c": {"Planning": 0, "Work Ethic": 1}
+    },
+    "question44": {
+      "a": {"Work Ethic": 3, "Discipline": 3, "Learning Speed": 3},
+      "b": {"Work Ethic": 2, "Discipline": 2, "Learning Speed": 2},
+      "c": {"Work Ethic": 1, "Discipline": 1, "Learning Speed": 1},
+      "d": {"Work Ethic": 0, "Discipline": 0, "Learning Speed": 0}
+    },
+    "question45": {
+      "a": {"Communication Skills": 3, "People Skills": 3},
+      "b": {"Communication Skills": 1, "People Skills": 3},
+      "c": {"Communication Skills": 2, "People Skills": 2},
+      "d": {"Communication Skills": 0, "People Skills": 0}
+    }
+   }
+
